@@ -1,2 +1,13 @@
 body {
-background-color: bisque;}
+background-color: bisque;
+}
+
+img{
+    width: 80%;
+}
+
+.link{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    color: fuchsia;
+}
